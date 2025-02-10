@@ -1,0 +1,1 @@
+Data for this analysis is found here: https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset
